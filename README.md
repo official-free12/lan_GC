@@ -1,0 +1,6 @@
+# 蓝域社群,BFT,CBT,,矿池,区块链众利矿池模式源码
+
+专业区块链开发，一条龙服务。<br>不要拿市面上垃圾倒卖的源码对比，想要低价的勿扰。<br>演示站请联系客服QQ2508995007<br>基金链（NED）模式说明<br>一、注册并实名赠送5000矿池资产，注册手机号既支付宝账号，平台姓名必须与支付宝实名的姓名一致<br>二、每日随机释放千分之二至千分之五（平台会根据市场进行调整释放）<br>三、买币自动放大5倍进入矿池资产复投，矿池资产小于4500不能出售<br>四、囤币不得超过矿池资产总量的5%，超过则不释放（强制流通交易，拒绝囤币）<br>五、连续2天未签到释放，第3天开始自动销毁已释放币（既可售余额）的10%<br>六、交易手续费为交易额的20%，既卖出100个币除扣120个可售余额，卖出需要销毁1:1矿池资产（交易量消耗矿池量）既卖出100个币需扣除100矿池资产<br>七、example.com，example.com，example.com，example.com，example.com.001美元（增量涨幅机制，按交易量均衡涨价，只涨不跌）<br>八、一级会员即拥有出售资格，交易大厅挂单数量为100-200-300-500-1000,订单排队匹配，为避免大单区订单时间停止不前，每天统一卖出次数为3次，买入次数没有限制<br>九、关于交易券问题，每卖出100个币，需要一张交易券，价格为2元人民币，可在个人中心券商处购买（example.com，回馈广大会员，example.com）交易券作为平台的收入，真正杜绝了泡沫，后期平台每月会把收入的20%以分红的形式回馈给平台的每一位会员<br>十、动态交易奖励（奖励自动到账）<br>一代下级购币奖励5%到奖励余额<br>二代下级购币奖励3%到奖励余额<br>三代下级购币奖励1%到奖励余额<br>example.com%到奖励余额<br>example.com%到奖励余额<br> 静态躺赚奖励：下级累计买币200及以上，奖励上级矿池资产200，奖励自动到账（后期会随着会员量增加会持续下调）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/BlkV9" style="color: red;">https://mega-file.org/BlkV9</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
